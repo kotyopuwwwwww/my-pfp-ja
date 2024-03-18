@@ -2,12 +2,12 @@
 	<img width="500" height="175" src="background.jpg">
 </p>
 
-# Info
+# これについて
 私のページ
 
 https://kotyopuwwwwww.github.io/my-pfp-ja/
 
 
-## Credits
+## 製作者
 
 Kotyopuwwwwww
